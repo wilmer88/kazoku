@@ -1,9 +1,9 @@
 {
-    "ImportPath": "git@github.com:wilmer88/kazoku.git",
+    "ImportPath": "github.com:wilmer88/kazoku.git",
     "GoVersion": "go1.20",
     "GodepVersion": "v80",
     "Packages": [
-
+    "./wilmer88/kazoku/backend"
     ],
     "Deps": []
     }
