@@ -3,7 +3,7 @@
     "GoVersion": "go1.20",
     "GodepVersion": "v80",
     "Packages": [
-    "wilmer88/kazoku/backend"
+    "./..."
     ],
     "Deps": []
     }
